@@ -1,0 +1,15 @@
+[28-Aug-2022 10:08:21 UTC] PHP Warning:  require(/home/sipalin3/public_html/shoemania/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sipalin3/public_html/shoemania/index.php on line 34
+[28-Aug-2022 10:08:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sipalin3/public_html/shoemania/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/sipalin3/public_html/shoemania/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sipalin3/public_html/shoemania/index.php on line 34
+[28-Aug-2022 10:08:26 UTC] PHP Warning:  require(/home/sipalin3/public_html/shoemania/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sipalin3/public_html/shoemania/index.php on line 34
+[28-Aug-2022 10:08:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sipalin3/public_html/shoemania/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/sipalin3/public_html/shoemania/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sipalin3/public_html/shoemania/index.php on line 34
+[28-Aug-2022 10:08:36 UTC] PHP Warning:  require(/home/sipalin3/public_html/shoemania/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sipalin3/public_html/shoemania/index.php on line 34
+[28-Aug-2022 10:08:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sipalin3/public_html/shoemania/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/sipalin3/public_html/shoemania/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sipalin3/public_html/shoemania/index.php on line 34
