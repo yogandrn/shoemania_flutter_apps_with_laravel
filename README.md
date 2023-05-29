@@ -5,6 +5,6 @@ App Link : https://drive.google.com/file/d/11ymPi3vl0yld3Pmcy4X2zs9DYfMEnHJw/vie
 <br/>
 Website : https://sipaling-ngoding.my.id/shoemania
 <br/>
-email : yogandrn@gmail.com
+email : admin@shoemania.com
 <br/>
 password : password
